@@ -11,12 +11,15 @@
   •	Вывод решения уравнения на экран
 
   Схемы, иллюстрирующие работу приложения:
-![image](https://github.com/Orboobs/PhotoChem/assets/88493905/8572b200-a7bd-4f34-aad2-d86eb25cc67d)
+![image](https://github.com/Orboobs/PhotoChem/assets/88493905/0d561243-43b9-49e5-8602-9429deefd5cc)
 
-![image](https://github.com/Orboobs/PhotoChem/assets/88493905/ab1d0e57-deae-48ee-b6bc-df4abe397028)
+
+![image](https://github.com/Orboobs/PhotoChem/assets/88493905/736d6f9a-c5d5-4063-8fe0-00af00435a12)
+
 Приложение написано на Java, а часть кода, взаимодействующая с базой дпнных и нейросетью, и сама нейросеть (БУДУТ) написаны на Python.
 Для их использоания в приложении задействован Chaquopy SDK https://chaquo.com/chaquopy/
 
 Фрагмент базы данных, состоящей из 4014 реакций:
 
-![image](https://github.com/Orboobs/PhotoChem/assets/88493905/65bdb73d-0a20-4812-b1c0-dbd8de0c0323)
+![image](https://github.com/Orboobs/PhotoChem/assets/88493905/00137d9e-b30b-47c4-b5e4-190cf6fa97ff)
+
